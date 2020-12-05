@@ -1,0 +1,1 @@
+//document.write("mama i tata:)");
